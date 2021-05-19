@@ -24,7 +24,7 @@ function App() {
   return (
     <Fragment>
         <Header 
-          titulo='Tienda Virtual'
+          titulo='Tienda Virtual Jrb'
         />
 
         <h1>Lista de Productos</h1>
